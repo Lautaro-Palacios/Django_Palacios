@@ -1,0 +1,19 @@
+# SQLite database file
+sqlite3
+db.sqlite3
+
+.pyc
+*.pyc
+
+_pycache_
+*/_pycache_
+_pycache_/
+
+
+env/
+/env
+env
+/env/*
+*env/
+miniblog/*/.pyc
+miniblog/db.sqlite3
