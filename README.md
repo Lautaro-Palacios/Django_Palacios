@@ -1,6 +1,6 @@
-# Proyecto Django - Tienda Online
+# Proyecto Django.
 
-Este proyecto es una aplicación web de una tienda online creada con Django. Los usuarios pueden navegar por productos, leer y dejar reviews, y agregar productos a su carrito de compras.
+Este proyecto es una aplicación web de una tienda online creada con Django. Los usuarios pueden navegar por productos, leer y dejar reviews.
 
 ## Características
 
